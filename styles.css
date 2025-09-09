@@ -1,0 +1,10 @@
+.body{
+    display:flex;
+}
+.banner{
+width: 100%;
+}
+.body{
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
